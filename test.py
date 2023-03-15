@@ -1,3 +1,5 @@
-print ("Hello world")
-print ("another hello")
-print (50 + 50)
+fname = 'Swaminathan'
+lname = 'Shankar Subbu'
+mylist = ["swami", "shreya"]
+print (f'{fname.upper()} {lname}')
+print ((mylist[1]))
